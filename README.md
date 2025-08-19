@@ -65,5 +65,3 @@ npm run dev
 ## ⭐ Support
 
 If you like this project, don’t forget to **star ⭐ the repo** — it motivates me to build more awesome projects!
-Chaho toh mai aapke liye **custom badges (followers, stars, PRs)** bhi add kar du README me for extra shine 🚀 — add karun?
-```
