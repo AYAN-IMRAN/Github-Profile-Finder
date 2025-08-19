@@ -3,6 +3,7 @@ import { Github, AlertTriangle } from "lucide-react";
 import ProfileCard from "./components/ProfileCard";
 import SearchForm from "./components/SearchForm";
 import { selectUserFields } from "./utils/selectUserFields";
+import ProfileCompare from "./components/ProfileCompare"; // 🔥 NEW
 
 function App() {
   const [username, setUsername] = useState("");
@@ -100,6 +101,9 @@ function App() {
           <ProfileCard user={user} loading={loading} />
         </div>
       </main>
+
+      {/* 🔥 New Compare Section */}
+      <ProfileCompare />
 
       {/* Footer */}
       <footer className="mt-10 border-t border-neutral-800 bg-neutral-900/60 p-4 sm:p-5 text-center text-xs sm:text-sm text-neutral-400">
