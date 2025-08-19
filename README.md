@@ -1,6 +1,6 @@
-# 🐙 GitHub Profile Finder 🔍
+# 🐙 GitHub Profile Finder & Comparer 🔍⚔️
 
-A modern **React-based web app** to search and explore GitHub user profiles with clean UI and instant insights.  
+A modern **React-based web app** to search, compare, and explore GitHub user profiles with a sleek UI and instant insights.  
 Built with ❤️ by **Ayan Imran**.
 
 ---
@@ -11,11 +11,10 @@ Built with ❤️ by **Ayan Imran**.
 ---
 
 ## ✨ Features
-- 🔎 Search any GitHub user by username  
-- 👤 View profile details: name, bio, avatar, location  
-- ⭐ Shows followers, repos, and other stats  
-- ⚡ Clean responsive UI (mobile + desktop)  
-- 🎨 Modern design with TailwindCSS  
+- 🔎 **Search any GitHub user** by username  
+- 👤 **View profile details**: name, bio, avatar, followers, repos, following  
+- ⚔️ **Compare two GitHub profiles** side by side  
+- 🏆 **Smart comparison results** → highlights who has more followers & repositories  
 
 ---
 
@@ -32,7 +31,6 @@ Built with ❤️ by **Ayan Imran**.
 ### 🔍 Search Profile
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/calculaterayan.appspot.com/o/Github-Profile-Finder.png?alt=media&token=808181c4-adc6-4ceb-96cd-0eecc8f40e21)
 
----
 
 ## 📦 Installation & Setup
 Follow these steps to run locally:
@@ -67,3 +65,5 @@ npm run dev
 ## ⭐ Support
 
 If you like this project, don’t forget to **star ⭐ the repo** — it motivates me to build more awesome projects!
+Chaho toh mai aapke liye **custom badges (followers, stars, PRs)** bhi add kar du README me for extra shine 🚀 — add karun?
+```
